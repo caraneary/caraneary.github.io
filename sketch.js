@@ -5,5 +5,7 @@ function setup() {
 }
 
 function draw() {
+  fill('blue');
+  ellipse(20,30,30);
 
 }
