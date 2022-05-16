@@ -6,7 +6,7 @@ function setup() {
 
 function draw() {
 
-  fill('137, 52, 235');
+  fill(137, 52, 235);
   text('Resume of Cara', 50, 40);
 
 
