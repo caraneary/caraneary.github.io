@@ -6,10 +6,9 @@ function setup() {
 
 function draw() {
 
-  fill('pink');
+  fill('137, 52, 235');
   text('Resume of Cara', 50, 40);
-  fill('blue');
-  ellipse(20,30,30);
+
 
   //
 
