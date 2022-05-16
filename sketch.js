@@ -1,16 +1,19 @@
 var eyeLevel;
 
 function setup() {
-  createCanvas(1000,1000);
+  createCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
 
 //title: Resume of Cara
-  fill(137, 52, 235);
+  fill(38, 133, 64);
   textSize(50);
-  text('Resume of Cara', 470, 60);
+  text('Resume of Cara', 540, 60);
 
+  //description of self portrait
+  textSize(20);
+  text('Self Portrait Project', 110, 440);
 
 
 }
