@@ -6,9 +6,9 @@ function setup() {
 
 function draw() {
 
-//title: Resume of Cara
+//title
   fill(38, 133, 64);
   textSize(50);
-  text('Resume of Cara', 540, 60);
+  text('Welcome to the p5 projects of Cara!<3');
 
 }

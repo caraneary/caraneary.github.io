@@ -1,12 +1,23 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: Teal;
 }
 
 canvas {
   display: block;
+  color: blue;
 }
 
-iframe {
-  
+h1 {
+  color: SpringGreen;
+  size: 60;
+}
+
+h2 {
+  color: SpringGreen;
+}
+
+li {
+  color: SpringGreen;
 }
